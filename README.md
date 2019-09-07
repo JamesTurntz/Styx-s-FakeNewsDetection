@@ -1,2 +1,2 @@
-# Styx-s-FakeNewsDetection
+# Styx's FakeNewsDetection
 Fake News Detection
